@@ -73,8 +73,8 @@ def menu():
     os.system('clear')
     print logo
     print 42 * '\x1b[1;91m='
-    print '\x1b[1;92m[1]\x1b[1;92mNUMBER CRACKED'
-    print '\x1b[1;93m[0]\x1b[1;93mLOGUOT'
+    print '\x1b[1;92m[1]\x1b[1;92mIraq Cracked'
+    print '\x1b[1;93m[0]\x1b[1;93mDarchun'
     print ' '
     print 42 * '\x1b[1;91m='
     action()
